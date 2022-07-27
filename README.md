@@ -30,7 +30,7 @@ However, we may regret that decision and don't want to restart the process.
 
 Or we just don't know where a running process is printing to.
 
-Then just type `catp`!
+If you come across these issues, just type `catp`!
 
 ## How It Works
 
